@@ -8,3 +8,6 @@ In addition, the various rating systems that have developed on the different sit
 For these motives, it has become of paramount importance for all companies and organisations to develop methods that can quickly and accurately extract and analyse relevant information from a text. One such technique is Topic Based Sentiment Analysis. This technique attempts to identify the most discussed topics or themes within a text, and then assesses the writer's opinion on these aspects.
 
 The aim of this project is to go beyond the average rating associated with the product in order to determine, in more depth, the opinions of users. In order to achieve this goal, I analysed phones reviews, in order to identify which aspects were the most important in the process of choosing and evaluating the product and the sentiment regarding each topic.
+
+Regarding the files, Data Preparation.ipynb is where I imported the datasets and did the data and text preprocessing, while the Analysis.ipynb is where I performed the Topic Based Sentiment Analysis.
+The RDS file are speific R file that I created at different steps of the analysis, in order to ensure that the changes were saved even in external files.
